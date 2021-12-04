@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472836571064",
+    "firebase_url": "https://cargameshd.firebaseio.com",
+    "project_id": "cargameshd",
+    "storage_bucket": "cargameshd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472836571064:android:48cd9d6b2a519aa0",
+        "android_client_info": {
+          "package_name": "com.tambecorp.shdcargame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472836571064-are9d84r3n7g6ggo7tdm6et4uc5snc2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXUrf2sF_RyvrGk9Jkue9rez40ru1HzgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472836571064-are9d84r3n7g6ggo7tdm6et4uc5snc2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

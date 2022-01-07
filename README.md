@@ -20,7 +20,7 @@ Tools used:
 -  `dream.lo Scoreboard`
 
 
- <img src="https://github.com/shardul28/carracing2810/blob/master/unknown%20(2).png"/>
+ <img src="https://github.com/shardul28/carracing2810/blob/master/unknown%20(2).png" style="transform:rotate(90deg);"/>
 
 <!-- CONTACT -->
 ## Contact

@@ -21,14 +21,26 @@ Tools used:
 -  `dream.lo Scoreboard`
 ## Actual Game
  <img src="https://github.com/shardul28/carracing2810/blob/master/unknown.png"/>
-## Login Page
-  <img src="https://github.com/shardul28/carracing2810/blob/master/image-030jpg" />
+## Login
+  <img src="https://github.com/shardul28/carracing2810/blob/master/image-027.jpg" />
+  <img src="https://github.com/shardul28/carracing2810/blob/master/image-028.jpg" />
+## Menu
+  <img src="https://github.com/shardul28/carracing2810/blob/master/image-030.jpg" />
 ## Car Select
  <img src="https://github.com/shardul28/carracing2810/blob/master/asdasdsa%20-%20Copy.png" />
 ## Map Select
  <img src="https://github.com/shardul28/carracing2810/blob/master/image-031.jpg" />
 ## Scoreboard
  <img src="https://github.com/shardul28/carracing2810/blob/master/asdasdsa%20-%20Copy.png" />
+  
+ ## Graphs
+ <img src="https://github.com/shardul28/carracing2810/blob/master/image-025.jpg" />
+ <img src="https://github.com/shardul28/carracing2810/blob/master/image-026.jpg" />
+ <img src="https://github.com/shardul28/carracing2810/blob/master/image-017.jpg" />
+ <img src="https://github.com/shardul28/carracing2810/blob/master/image-016.jpg" />
+   
+  
+   
 
 <!-- CONTACT -->
 ## Contact

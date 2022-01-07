@@ -39,11 +39,21 @@ Tools used:
  <img src="https://github.com/shardul28/carracing2810/blob/master/asdasdsa%20-%20Copy.png" />
   
  ## Graphs
-   Component Diagram of the Application.
+   
+ # Component Diagram of the Application.
+   
  <img src="https://github.com/shardul28/carracing2810/blob/master/image-025.jpg" />
-   Package Diagram.
+   
+ # Package Diagram.
+   
  <img src="https://github.com/shardul28/carracing2810/blob/master/image-026.jpg" />
+   
+ # Class Diagram.
+   
  <img src="https://github.com/shardul28/carracing2810/blob/master/image-017.jpg" />
+   
+ # Activity  Diagram.
+   
  <img src="https://github.com/shardul28/carracing2810/blob/master/image-016.jpg" />
    
   
